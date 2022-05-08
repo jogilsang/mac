@@ -19,7 +19,6 @@
   - youtube
   - 웹사이트 단어
   - 커맨드+스페이스
-- spotlight search - 아쉬움
 - karabiner-element - 단축키 관리
 - be focused - 포모도르
 - kap - gif생성
