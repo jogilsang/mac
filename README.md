@@ -11,9 +11,28 @@
 ---
 
 ### 앱
+#### 사용
 - spectacle - 분할화면
-- evernote - 2개 까지는 무료
 - cheatsheet app - 맥북 단축키 알려줌
+- alfred - 어플리케이션 실행, 파일찾기
+  - en 다음 원하는단어
+  - youtube
+  - 웹사이트 단어
+  - 커맨드+스페이스
+- spotlight search - 아쉬움
+- karabiner-element - 단축키 관리
+- be focused - 포모도르
+- kap - gif생성
+- iterm2 - 터미널
+- vimum (chrome 확장자)
+  - ag 슬라이드 이동
+  -f 누르면 클릭효과
+
+#### 미사용
+- evernote - 2개 까지는 무료
+- next meeting - 일정관리
+
+---
 
 ### 단축키
 > - 윈도우의 ctrl은 맥북에서는 command 라고 볼 수 있다
