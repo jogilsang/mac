@@ -60,8 +60,8 @@
 
 ### ppt
 
-ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
-
+- ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
+- [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
 
 
 
