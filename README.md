@@ -13,6 +13,7 @@
 
 ### 앱
 #### 사용
+- spark - 이메일 앱
 - spectacle - 분할화면
 - cheatsheet app - 맥북 단축키 알려줌
 - alfred - 어플리케이션 실행, 파일찾기
