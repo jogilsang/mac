@@ -3,6 +3,8 @@
 
 ## INDEX
 - [앱](#앱)
+  - [사용](#사용)
+  - [플러그인](#플러그인)
 - [단축키](#단축키)
   - 닫기
 - [패드](#패드)
@@ -13,6 +15,7 @@
 
 ### 앱
 #### 사용
+- twitter - 트위터 앱
 - spark - 이메일 앱
 - spectacle - 분할화면
 - cheatsheet app - 맥북 단축키 알려줌
@@ -25,6 +28,8 @@
 - be focused - 포모도르
 - kap - gif생성
 - iterm2 - 터미널
+#### 플러그인
+- liner (chrome 확장자)
 - vimum (chrome 확장자)
   - ag 슬라이드 이동
   -f 누르면 클릭효과
