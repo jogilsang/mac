@@ -39,7 +39,7 @@
 - cmd + option + i : 개발자도구
 
 #### PPT 
-- add-in
+- [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?src=office)
   - QR4Office : QR코드생성
   - pexels free stock images : 무료 
   - pixton comic characters : 캐릭터 이미지 사용
