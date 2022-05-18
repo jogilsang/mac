@@ -10,6 +10,7 @@
 - [패드](#패드)
 - [설정](#설정)
 - [PPT](#ppt)
+- [iterm](#iterm)
 
 ---
 
@@ -68,6 +69,15 @@
 
 - ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
 - [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
+
+---
+
+### iterm
+- 전체/부분 선택 Command + Shift + I 
+- 가로 분할 Command + D 
+- 세로 분할 Command + Shift + D
+
+
 
 
 
