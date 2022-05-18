@@ -44,6 +44,8 @@
   - pexels free stock images : 무료 
   - pixton comic characters : 캐릭터 이미지 사용
   - pro word cloud : 단어목록을 통해 이미지 생성
+  - emoji keyboard
+  - pickit
 
 #### 미사용
 - evernote - 2개 까지는 무료
