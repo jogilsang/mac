@@ -73,7 +73,8 @@
 ---
 
 ### iterm
-- 전체/부분 선택 `Command + Shift + I`
+- 전체/부분 선택 `Command + Shift + I`- 
+- 터미널히스토리 보기	`Shift + Cmd + H`
 - 가로 분할 `Command + D` 
 - 세로 분할 `Command + Shift + D`
 
