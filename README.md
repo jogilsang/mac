@@ -5,6 +5,7 @@
 - [앱](#앱)
   - [사용](#사용)
   - [플러그인](#플러그인)
+- [PPT](#ppt)
 - [단축키](#단축키)
   - 닫기
 - [패드](#패드)
@@ -36,6 +37,13 @@
   -f 누르면 클릭효과
 
 - cmd + option + i : 개발자도구
+
+#### PPT 
+- add-in
+  - QR4Office : QR코드생성
+  - pexels free stock images : 무료 
+  - pixton comic characters : 캐릭터 이미지 사용
+  - pro word cloud : 단어목록을 통해 이미지 생성
 
 #### 미사용
 - evernote - 2개 까지는 무료
