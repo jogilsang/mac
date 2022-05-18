@@ -35,6 +35,8 @@
   - ag 슬라이드 이동
   -f 누르면 클릭효과
 
+- cmd + option + i : 개발자도구
+
 #### 미사용
 - evernote - 2개 까지는 무료
 - next meeting - 일정관리
