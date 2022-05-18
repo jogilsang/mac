@@ -73,9 +73,9 @@
 ---
 
 ### iterm
-- 전체/부분 선택 Command + Shift + I 
-- 가로 분할 Command + D 
-- 세로 분할 Command + Shift + D
+- 전체/부분 선택 `Command + Shift + I`
+- 가로 분할 `Command + D` 
+- 세로 분할 `Command + Shift + D`
 
 
 
