@@ -98,7 +98,8 @@
 brew tap theeternalsw0rd/telnet
 brew install telnet
 ```
-
+- 편집키 적용
+> profiles - open profiles - keys - presets - natural text edditing
 
 
 
