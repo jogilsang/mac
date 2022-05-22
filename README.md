@@ -89,7 +89,15 @@
 - 터미널히스토리 보기	`Shift + Cmd + H`
 - 가로 분할 `Command + D` 
 - 세로 분할 `Command + Shift + D`
+- telnet
+```sh
+#1. Homebrew 설치
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+#2. telnet설치
+brew tap theeternalsw0rd/telnet
+brew install telnet
+```
 
 
 
