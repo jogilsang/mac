@@ -105,5 +105,7 @@ brew install telnet
   - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
   - https://github.com/ohmyzsh/ohmyzsh
   - https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-
+  - https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes
+    - <img width="675" alt="image" src="https://user-images.githubusercontent.com/20831981/169723114-297f3e7d-3d17-4908-adfe-8e34bbe4e028.png">
+    - https://github.com/skuridin/oh-my-zsh-node-theme
 
