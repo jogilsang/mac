@@ -12,6 +12,7 @@
 - [설정](#설정)
 - [PPT](#ppt)
 - [iterm](#iterm)
+  - [zsh](#zsh)
 
 ---
 
@@ -100,6 +101,9 @@ brew install telnet
 ```
 - 편집키 적용
 > profiles - open profiles - keys - presets - natural text edditing
-
+- #### zsh
+  - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  - https://github.com/ohmyzsh/ohmyzsh
+  - https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
 
