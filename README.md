@@ -125,13 +125,16 @@ brew install telnet
     - https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes
       - <img width="675" alt="image" src="https://user-images.githubusercontent.com/20831981/169723114-297f3e7d-3d17-4908-adfe-8e34bbe4e028.png">
     - https://github.com/skuridin/oh-my-zsh-node-theme
-  - font
+  - font 및 한글적용
     ```sh
+    # 1. 설치
     git clone https://github.com/powerline/fonts.git
     cd fonts
     ./install.sh
+    
     # 터미널 설정에서 편집 – 프로파일 기본 설정
-    # 사용자 지정 글꼴 - Ubuntu Mono derivative Powerline Regular 변경
+    # 2. 사용자 지정 글꼴 : Ubuntu Mono derivative Powerline Regular 변경
+    # 3. 자음분리현상 : iterm설정 >  profile > 해당 프로필 선택  > Text  Tab > Unicode  Field의 "Unicode normalization from" -> None -> NFC로 변경 
     ```
   - 참조
   - https://github.com/ohmyzsh/ohmyzsh
