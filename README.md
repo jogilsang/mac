@@ -18,6 +18,7 @@
 
 ### 앱
 #### 사용
+- Copyless 2 - 클립보드 히스토리 앱
 - twitter - 트위터 앱
 - spark - 이메일 앱
 - spectacle - 분할화면
