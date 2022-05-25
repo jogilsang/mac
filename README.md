@@ -140,5 +140,13 @@ brew install telnet
   - 참조
   - https://github.com/ohmyzsh/ohmyzsh
 
+#3. code 명령어설정
+```sh
+vi ~/.zshrc
+source ~/.zshrc
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+```
+
+
 
     
