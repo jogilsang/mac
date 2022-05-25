@@ -143,8 +143,11 @@ brew install telnet
 #3. code 명령어설정
 ```sh
 vi ~/.zshrc
-source ~/.zshrc
+# 맨 밑에 추가
 code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+# 적용
+source ~/.zshrc
+
 ```
 
 
