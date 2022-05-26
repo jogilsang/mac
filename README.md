@@ -29,6 +29,7 @@
   - 웹사이트 단어
   - 커맨드+스페이스
 - karabiner-element - 단축키 관리
+  - 한영키 : Simple Modification - add Item -> Fromkey(Right_option) -> to Key (f18)
 - be focused - 포모도르
 - kap - gif생성
 - iterm2 - 터미널
