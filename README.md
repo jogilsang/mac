@@ -33,13 +33,18 @@
 - be focused - 포모도르
 - kap - gif생성
 - iterm2 - 터미널
+
 #### 플러그인
+> 크롬
+
 - liner (chrome 확장자)
 - vimum (chrome 확장자)
   - ag 슬라이드 이동
   -f 누르면 클릭효과
 
+> 
 - cmd + option + i : 개발자도구
+- cmd + ctrl + f : 전체화면
 
 #### PPT 
 - [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?src=office)
