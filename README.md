@@ -12,6 +12,7 @@
 - [설정](#설정)
 - [PPT](#ppt)
 - [iterm](#iterm)
+  - [brew](#brew)
   - [zsh](#zsh)
 
 ---
@@ -108,21 +109,23 @@
 ---
 
 ### iterm
-- 전체/부분 선택 `Command + Shift + I`- 
-- 터미널히스토리 보기	`Shift + Cmd + H`
-- 가로 분할 `Command + D` 
-- 세로 분할 `Command + Shift + D`
-- telnet
-```sh
-#1. Homebrew 설치
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-#2. telnet설치
-brew tap theeternalsw0rd/telnet
-brew install telnet
-```
+- 단축키
+  - 전체/부분 선택 `Command + Shift + I`- 
+  - 터미널히스토리 보기	`Shift + Cmd + H`
+  - 가로 분할 `Command + D` 
+  - 세로 분할 `Command + Shift + D`
 - 편집키 적용
-> profiles - open profiles - keys - presets - natural text edditing
+  - profiles - open profiles - keys - presets - natural text edditing
+
+- #### brew
+  ```sh
+  #1. Homebrew 설치
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+  #2. telnet설치
+  brew tap theeternalsw0rd/telnet
+  brew install telnet
+  ```
 - #### zsh
   - 설치
     - sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
