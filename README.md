@@ -37,8 +37,11 @@
 #### 플러그인
 > 크롬
 
-- liner (chrome 확장자)
-- vimum (chrome 확장자)
+- cacoo : 아키텍처 그리기
+  - 커뮤니티 : https://community.nulab.com/c/cacoo/12
+  - 단축키 : https://support.cacoo.com/hc/en-us/articles/900005489286-Shortcut-keys
+- liner : 화면에 밑줄표시
+- vimum : 마우스없이 키보드로 화면이동
   - ag 슬라이드 이동
   -f 누르면 클릭효과
 
