@@ -38,6 +38,7 @@
 #### 플러그인
 > 크롬
 
+- Browsec VPN : 국가정보 변경접속하기
 - cacoo : 아키텍처 그리기
   - 커뮤니티 : https://community.nulab.com/c/cacoo/12
   - 단축키 : https://support.cacoo.com/hc/en-us/articles/900005489286-Shortcut-keys
