@@ -119,8 +119,10 @@
 
 - #### brew
   ```sh
-  #1. Homebrew 설치
+  #1. Homebrew 설치 및 Path 설정
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/user/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
 
   #2. telnet설치
   brew tap theeternalsw0rd/telnet
