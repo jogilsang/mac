@@ -60,6 +60,8 @@
   - pro word cloud : 단어목록을 통해 이미지 생성
   - emoji keyboard
   - pickit
+- MS 업데이트 끄기
+  - https://iboxcomein.com/block-mac-office-updates/
 
 #### 미사용
 - evernote - 2개 까지는 무료
