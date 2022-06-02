@@ -2,14 +2,14 @@
 맥북을 받게된 엔지니어의 좌충우돌 적응기
 
 ## INDEX
-- [앱](#앱)
-  - [사용](#사용)
+- [세팅](#세팅)
+  - [앱](#앱)
   - [플러그인](#플러그인)
+  - [설정](#설정)
 - [PPT](#ppt)
 - [단축키](#단축키)
   - 닫기
 - [패드](#패드)
-- [설정](#설정)
 - [PPT](#ppt)
 - [iterm](#iterm)
   - [brew](#brew)
@@ -17,8 +17,8 @@
 
 ---
 
-### 앱
-#### 사용
+### 세팅
+#### 앱
 - Copyless 2 - 클립보드 히스토리 앱
 - twitter - 트위터 앱
 - spark - 이메일 앱
@@ -52,6 +52,15 @@
 - cmd + option + i : 개발자도구
 - cmd + ctrl + f : 전체화면
 
+#### 설정
+- Caps Lock 버튼을 한영 전환키로 사용하는 경우 아래의 방법으로 Caps Lock을 키고 끌 수 있습니다.
+- 라인,슬랙 : 시스템 설정 - 알림 및 집중모드 - 미리보기 표시 - 항상
+- 지메일 : 설저 - 기본설정 - 데스크톱 알림 - mac에서 보려며 알림확인 클릭
+- cmd+q : "시스템 환경 설정 > 일반"을 클릭 후 "앱을 종료하면 윈도우 닫기" 
+- 시스템환경설정 - 손쉬운사용 - 디스플레이 - 동작줄이기 체크
+
+---
+
 #### PPT 
 - [add-in](https://appsource.microsoft.com/en-us/marketplace/apps?src=office)
   - QR4Office : QR코드생성
@@ -63,9 +72,10 @@
 - MS 업데이트 끄기
   - https://iboxcomein.com/block-mac-office-updates/
 
-#### 미사용
-- evernote - 2개 까지는 무료
-- next meeting - 일정관리
+
+- ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
+- [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
+
 
 ---
 
@@ -96,19 +106,6 @@
 - 두 손가락으로 위아래로 굴리면, 스크롤
 - 세 손가락으로 누르면, 화면생성
 - 세 손가락으로 좌우로 굴리면, 화면이동
-
-### 설정
-- Caps Lock 버튼을 한영 전환키로 사용하는 경우 아래의 방법으로 Caps Lock을 키고 끌 수 있습니다.
-- 라인,슬랙 : 시스템 설정 - 알림 및 집중모드 - 미리보기 표시 - 항상
-- 지메일 : 설저 - 기본설정 - 데스크톱 알림 - mac에서 보려며 알림확인 클릭
-- cmd+q : "시스템 환경 설정 > 일반"을 클릭 후 "앱을 종료하면 윈도우 닫기" 
-
----
-
-### ppt
-
-- ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
-- [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
 
 ---
 
