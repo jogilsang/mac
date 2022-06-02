@@ -14,7 +14,8 @@
 - [iterm](#iterm)
   - [brew](#brew)
   - [zsh](#zsh)
-
+  - [python](#python)
+  - [aws](#aws)
 ---
 
 ### 세팅
@@ -169,6 +170,24 @@ code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
 source ~/.zshrc
 
 ```
+
+- python
+```sh
+vi .zshrc
+alias python='python3'
+source .zshrc
+python --version
+```
+
+- aws
+```sh
+# 설치 후 설치 경로 확인(which 명령어로 확인), 설치가 잘 되었는지 확인
+brew install awscli
+
+which aws
+aws --version
+```
+
 
 
 
