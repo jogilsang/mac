@@ -115,8 +115,13 @@
   - 터미널히스토리 보기	`Shift + Cmd + H`
   - 가로 분할 `Command + D` 
   - 세로 분할 `Command + Shift + D`
-- 편집키 적용
-  - profiles - open profiles - keys - presets - natural text edditing
+- 세팅
+  - 1\. 편집키 적용
+    - profiles - open profiles - keys - presets - natural text edditing
+  - 2\. 실행단축키 설정
+    - Preferences - Hotkey
+  - 3\. 기본 전체화면 설정
+    - profile - window - style - fullscreen 체크
 
 - #### brew
   ```sh
