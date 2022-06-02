@@ -149,13 +149,13 @@
     - https://github.com/skuridin/oh-my-zsh-node-theme
   - font 및 한글적용
     ```sh
-    # 1. 설치
-    git clone https://github.com/powerline/fonts.git
-    cd fonts
-    ./install.sh
-    
+    # 1. 글꼴설치
+    brew tap homebrew/cask-fonts
+    brew install --cask font-fira-mono-nerd-font
+
     # 터미널 설정에서 편집 – 프로파일 기본 설정
-    # 2. 사용자 지정 글꼴 : Ubuntu Mono derivative Powerline Regular 변경
+    # 사용자 지정 글꼴 : FiraMono Nerd Font 변경
+
     # 3. 자음분리현상 : iterm설정 >  profile > 해당 프로필 선택  > Text  Tab > Unicode  Field의 "Unicode normalization from" -> None -> NFC로 변경 
     ```
   - 참조
@@ -187,7 +187,10 @@ brew install awscli
 which aws
 aws --version
 ```
-
+- logo-ls
+  - 실행되지않는 프로그램 : 시스템 환경설정 - 보안 및 개인정보 보호 - 다음에서 다운로드 한 앱 허용
+  - 출처 : https://blog.dnd.ac/settings-mac-terminal/
+  - <img width="623" alt="image" src="https://user-images.githubusercontent.com/20831981/171620366-92d34352-745e-47bb-8ccd-f33c3089961b.png">
 
 
 
