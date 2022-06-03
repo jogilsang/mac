@@ -48,7 +48,8 @@ in the status menu
 #### 플러그인
 > 크롬
 
-- Turn Off the Lights : aws console 
+- [darkreader](https://darkreader.org/help/en/) : aws console을 dark theme로 적용
+- Turn Off the Lights
 - User-Agent Switcher for Chrome : 웹 요청의 user-agent 헤더 변경가능
 - Browsec VPN : 국가정보 변경접속하기
 - cacoo : 아키텍처 그리기
