@@ -21,6 +21,7 @@
 ### 세팅
 #### 앱
 - [nosleep](https://code.google.com/archive/p/macosx-nosleep-extension/downloads) - 모니터닫아도 안꺼지게하기
+  - 링크 : https://macnews.tistory.com/131
 - Copyless 2 - 클립보드 히스토리 앱
 - twitter - 트위터 앱
 - spark - 이메일 앱
