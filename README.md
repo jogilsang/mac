@@ -20,8 +20,6 @@
 
 ### 세팅
 #### 앱
-- [nosleep](https://code.google.com/archive/p/macosx-nosleep-extension/downloads) - 모니터닫아도 안꺼지게하기
-  - 링크 : https://macnews.tistory.com/131
 - Copyless 2 - 클립보드 히스토리 앱
 - twitter - 트위터 앱
 - spark - 이메일 앱
@@ -61,6 +59,10 @@
 - 지메일 : 설저 - 기본설정 - 데스크톱 알림 - mac에서 보려며 알림확인 클릭
 - cmd+q : "시스템 환경 설정 > 일반"을 클릭 후 "앱을 종료하면 윈도우 닫기" 
 - 시스템환경설정 - 손쉬운사용 - 디스플레이 - 동작줄이기 체크
+- 클렘셀 모드 : 덮개 닫아도 실행 
+  - 전원선 연결
+  - 외장 마우스,키보드 연결
+  - 모니터 연결
 
 ---
 
