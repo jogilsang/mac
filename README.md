@@ -140,7 +140,7 @@ in the status menu
   - 2\. 실행단축키 설정
     - Preferences - Hotkey
   - 3\. 기본 전체화면 설정
-    - profile - window - style - fullscreen 체크
+    - profile - window - style - maximized 체크
 
 - #### brew
   ```sh
