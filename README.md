@@ -24,6 +24,15 @@
 - twitter - 트위터 앱
 - spark - 이메일 앱
 - spectacle - 분할화면
+```
+시스템 환경설정 -> 보안 및 개인정보보호 -> 개인정보보호 -> 좌측하단 자물쇠 클릭 -> 
+애플계정 비밀번호 입력 -> 손쉬운 사용 -> Spectacle 체크
+출처: https://dailylog2020.tistory.com/10 [알아두면 언젠가, 쓸모있을 정보들.:티스토리]
+
+check - launch spectacle at login
+in the status menu
+```
+
 - cheatsheet app - 맥북 단축키 알려줌
 - alfred - 어플리케이션 실행, 파일찾기
   - en 다음 원하는단어
