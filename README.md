@@ -6,6 +6,7 @@
   - [앱](#앱)
   - [플러그인](#플러그인)
   - [설정](#설정)
+  - [vscode](#vscode)
 - [PPT](#ppt)
 - [단축키](#단축키)
   - 닫기
@@ -79,6 +80,12 @@ in the status menu
   - 전원선 연결
   - 외장 마우스,키보드 연결
   - 모니터 연결
+
+#### vscode
+- Paste Image - 클립보드 이미지를 mkdown에 추가하기
+- IntelliJ IDEA Keybindings - 잘 사용하는 편집기의 단축키를 vscode에 적용하기
+- One Dark Pro - theme를 적용할 수 있음
+- vscode-pdf - pdf파일을 vscode로 볼 수 있음
 
 ---
 
