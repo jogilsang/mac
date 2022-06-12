@@ -11,7 +11,6 @@
 - [단축키](#단축키)
   - 닫기
 - [패드](#패드)
-- [PPT](#ppt)
 - [iterm](#iterm)
   - [brew](#brew)
   - [zsh](#zsh)
