@@ -17,6 +17,11 @@
   - [zsh](#zsh)
   - [python](#python)
   - [aws](#aws)
+  - [node](#node)
+  - [eksctl](#eksctl)
+  - [awscorretto](#awscorretto)
+  - [logo-ls](#logo-ls)
+  - [envsubst](#envsubst)
 ---
 
 ### 세팅
@@ -226,6 +231,33 @@ aws --version
   - 출처 : https://blog.dnd.ac/settings-mac-terminal/
   - <img width="623" alt="image" src="https://user-images.githubusercontent.com/20831981/171620366-92d34352-745e-47bb-8ccd-f33c3089961b.png">
 
+- awscorretto
+```
+https://aws.amazon.com/ko/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc
+wget https://corretto.aws/downloads/latest/amazon-corretto-17-x64-macos-jdk.pkg 
+java —vision
+javac -version
+echo 'export JAVA_HOME=$(/usr/libexec/java_home -v 11)' >> ~/.zprofile
+```
+
+- envsubst
+> yaml > template
+```
+brew install gettext
+```
+
+- node
+```
+https://nodejs.org/ko/  
+node —version 
+```
+
+- eksctl
+```
+https://github.com/weaveworks/eksctl
+open eksctl
+echo 'export PATH=$PATH:$HOME/k8sbook/bin' >> ~/.zprofile
+```
 
 
     
