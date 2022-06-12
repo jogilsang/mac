@@ -108,8 +108,20 @@ in the status menu
 - MS 업데이트 끄기
   - https://iboxcomein.com/block-mac-office-updates/
 
+> PPT 단축키
 
-- ctrl + 아래방향키 : ppt 여러개 파일 중 하나 
+- ppt 여러개 파일 중 하나 : ctrl + 아래방향키
+- ppt 파일 간 화면이동 : cmd + ~
+- 그리기 모드 토글 : COMMAND + CONTROL + Z
+- 하이퍼링크 추가 : cmd + k
+- 개체이동 : TAB, shift + TAB
+- 텍스트 이동 : 텍스트 선택 후 shift 방향키
+- 그림크기 조절 : shift + 방향키
+- 그림회전 : option + 방향키
+- 텍스트 창옵션 : cmd+t, cmd+option+m
+- 텍스트 좌,우,중앙정렬 : cmd + e,l,r
+- 화면보기 변경(일반,여러 슬라이드, 개요, 노트) : command + 1,2,3,4
+- 마스터 화면보기 변경(일반,여러 슬라이드,개요,노트) : cmd + option + 1,2,3,4
 - [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
 
 
