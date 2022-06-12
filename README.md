@@ -59,6 +59,7 @@ in the status menu
 #### 플러그인
 > 크롬
 
+- Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
 - [darkreader](https://darkreader.org/help/en/) : aws console을 dark theme로 적용
 - Turn Off the Lights
