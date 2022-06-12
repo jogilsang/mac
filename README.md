@@ -33,6 +33,8 @@
 check - launch spectacle at login
 in the status menu
 ```
+![image](https://user-images.githubusercontent.com/20831981/173215232-9bca4c41-ac0d-4950-aa41-5706c918aa6a.png)
+
 
 - fork - [git 브런치 툴](https://git-fork.com/)
 - [Twilio Authy - MFA 모바일 앱과 mac 앱으로도 사용가능](https://authy.com/download/)
