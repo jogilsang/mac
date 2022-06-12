@@ -119,6 +119,7 @@ in the status menu
   - 닫기
     - cmd + w
 
+- Finder열기 : Option⌥ + Command⌘  + space bar
 - 캡쳐사진 클립보드에 복사하기
 ```
 시스템 환경설정 - 키보드 - 단축키 - 스크린샷 - 선택한 영역의 그림을 클립보드에 복사 (check)
