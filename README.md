@@ -38,7 +38,7 @@
 check - launch spectacle at login
 in the status menu
 ```
-![image](https://user-images.githubusercontent.com/20831981/173215232-9bca4c41-ac0d-4950-aa41-5706c918aa6a.png)
+![image](https://user-images.githubusercontent.com/20831981/173234394-17178596-35a6-40b6-89ed-eaf83aad3597.png)
 
 
 - fork - [git 브런치 툴](https://git-fork.com/)
