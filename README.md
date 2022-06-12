@@ -33,7 +33,8 @@ check - launch spectacle at login
 in the status menu
 ```
 
-- Twilio Authy - MFA 모바일 앱과 mac 앱으로도 사용가능
+- [Twilio Authy - MFA 모바일 앱과 mac 앱으로도 사용가능](https://authy.com/download/)
+  - 
 - cheatsheet app - 맥북 단축키 알려줌
 - alfred - 어플리케이션 실행, 파일찾기
   - en 다음 원하는단어
