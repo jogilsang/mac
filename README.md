@@ -58,6 +58,7 @@ in the status menu
 #### 플러그인
 > 크롬
 
+- [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
 - Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
 - [darkreader](https://darkreader.org/help/en/) : aws console을 dark theme로 적용
