@@ -54,6 +54,10 @@ in the status menu
 - be focused - 포모도르
 - kap - gif생성
 - iterm2 - 터미널
+- Slack - 비즈니스 채팅앱
+  - 환경설정 - 고급 - Enter 누를 시 전송버튼 변경하기
+![image](https://user-images.githubusercontent.com/20831981/173468202-699c39ec-52c8-4d80-8120-3863ecfdebc1.png)
+
 
 #### 플러그인
 > 크롬
