@@ -96,6 +96,7 @@ in the status menu
 
 #### vscode
 - Paste Image - 클립보드 이미지를 mkdown에 추가하기
+  - setting - keyboard shortcut - 키바인딩 된 다른 키 제거( cmd option v )
 - IntelliJ IDEA Keybindings - 잘 사용하는 편집기의 단축키를 vscode에 적용하기
 - One Dark Pro - theme를 적용할 수 있음
 - vscode-pdf - pdf파일을 vscode로 볼 수 있음
