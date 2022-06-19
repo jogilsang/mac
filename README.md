@@ -21,6 +21,7 @@
   - [awscorretto](#awscorretto)
   - [logo-ls](#logo-ls)
   - [envsubst](#envsubst)
+  - [gdate](#gdate)
 ---
 
 ### 세팅
@@ -101,6 +102,15 @@ in the status menu
 - IntelliJ IDEA Keybindings - 잘 사용하는 편집기의 단축키를 vscode에 적용하기
 - One Dark Pro - theme를 적용할 수 있음
 - vscode-pdf - pdf파일을 vscode로 볼 수 있음
+- code 명령어설정
+```sh
+vi ~/.zshrc
+# 맨 밑에 추가
+code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+# 적용
+source ~/.zshrc
+
+```
 
 ---
 
@@ -221,17 +231,7 @@ in the status menu
   - 참조
   - https://github.com/ohmyzsh/ohmyzsh
 
-#3. code 명령어설정
-```sh
-vi ~/.zshrc
-# 맨 밑에 추가
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
-# 적용
-source ~/.zshrc
-
-```
-
-- python
+#### python
 ```sh
 vi .zshrc
 alias python='python3'
@@ -239,7 +239,7 @@ source .zshrc
 python --version
 ```
 
-- aws
+#### aws
 ```sh
 # 설치 후 설치 경로 확인(which 명령어로 확인), 설치가 잘 되었는지 확인
 brew install awscli
@@ -247,12 +247,12 @@ brew install awscli
 which aws
 aws --version
 ```
-- logo-ls
+#### logo-ls
   - 실행되지않는 프로그램 : 시스템 환경설정 - 보안 및 개인정보 보호 - 다음에서 다운로드 한 앱 허용
   - 출처 : https://blog.dnd.ac/settings-mac-terminal/
   - <img width="623" alt="image" src="https://user-images.githubusercontent.com/20831981/171620366-92d34352-745e-47bb-8ccd-f33c3089961b.png">
 
-- awscorretto
+#### awscorretto
 ```
 https://aws.amazon.com/ko/corretto/?filtered-posts.sort-by=item.additionalFields.createdDate&filtered-posts.sort-order=desc
 wget https://corretto.aws/downloads/latest/amazon-corretto-17-x64-macos-jdk.pkg 
@@ -261,24 +261,34 @@ javac -version
 echo 'export JAVA_HOME=$(/usr/libexec/java_home -v 11)' >> ~/.zprofile
 ```
 
-- envsubst
+#### envsubst
 > yaml > template
 ```
 brew install gettext
 ```
 
-- node
+#### node
 ```
 https://nodejs.org/ko/  
 node —version 
 ```
 
-- eksctl
+#### eksctl
 ```
 https://github.com/weaveworks/eksctl
 open eksctl
 echo 'export PATH=$PATH:$HOME/k8sbook/bin' >> ~/.zprofile
 ```
 
+#### gdate
+> mac에서는 date명령어로 mill세컨트드를 표시할 수 없음
+```
+# you will have a version of date that supports milliseconds.
+# https://apple.stackexchange.com/questions/135742/time-in-milliseconds-since-epoch-in-the-terminal
+
+brew install coreutils
+gdate +%s.%N
+# 1655610273046338000
+```
 
     
