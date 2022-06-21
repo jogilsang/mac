@@ -249,6 +249,7 @@ which aws
 aws --version
 ```
 #### aws-vault
+> 콘솔열기 용이, CLI 인증제공
 ```sh
 # 설치출처 : https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault
 
@@ -259,6 +260,13 @@ aws-vault add chogilsang@captain
 - Enter Access Key ID: AKIATTI2VDLZXHFFHEVW
 - Enter Secret Access Key:
 - Added credentials to profile "chogilsang@captain" in vault
+
+# Example
+# CLI 명령어 실행해보기
+sudo aws-vault exec chogilsang@captain -- aws s3 ls
+
+# 콘솔화면 열기
+aws-vault login chogilsang@captain
 
 ```
 
