@@ -253,6 +253,13 @@ aws --version
 # 설치출처 : https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault
 
 brew install aws-vault
+aws-vault --version
+
+aws-vault add chogilsang@captain
+- Enter Access Key ID: AKIATTI2VDLZXHFFHEVW
+- Enter Secret Access Key:
+- Added credentials to profile "chogilsang@captain" in vault
+
 ```
 
 #### logo-ls
