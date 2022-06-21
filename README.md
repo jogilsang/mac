@@ -16,6 +16,7 @@
   - [zsh](#zsh)
   - [python](#python)
   - [aws](#aws)
+  - [aws-vault](#aws-vault)
   - [node](#node)
   - [eksctl](#eksctl)
   - [awscorretto](#awscorretto)
@@ -247,6 +248,13 @@ brew install awscli
 which aws
 aws --version
 ```
+#### aws-vault
+```sh
+# 설치출처 : https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault
+
+brew install aws-vault
+```
+
 #### logo-ls
   - 실행되지않는 프로그램 : 시스템 환경설정 - 보안 및 개인정보 보호 - 다음에서 다운로드 한 앱 허용
   - 출처 : https://blog.dnd.ac/settings-mac-terminal/
