@@ -55,6 +55,8 @@ in the status menu
 - karabiner-element - 단축키 관리
   - 한영키 : Simple Modification - add Item -> Fromkey(Right_option) -> to Key (f18)
 - be focused - 포모도르
+  - settings - general - launch at start
+  - settings - Notification sound - none
 - kap - gif생성
 - iterm2 - 터미널
 - Slack - 비즈니스 채팅앱
