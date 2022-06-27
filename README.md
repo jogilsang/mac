@@ -194,8 +194,9 @@ source ~/.zshrc
     - profiles - open profiles - keys - presets - natural text edditing
   - 2\. 실행단축키 설정
     - Preferences - Hotkey
-  - 3\. 기본 전체화면 설정
-    - profile - window - style - maximized 체크
+    - option + space
+  - 3\. 타이틀바 밑에 1px 라인 제거
+    - Appearance > Windows > Show line under title bar when the tab bar is not visible: 체크 안함
 
 - #### brew
   ```sh
@@ -230,6 +231,9 @@ source ~/.zshrc
     # 사용자 지정 글꼴 : FiraMono Nerd Font 변경
 
     # 3. 자음분리현상 : iterm설정 >  profile > 해당 프로필 선택  > Text  Tab > Unicode  Field의 "Unicode normalization from" -> None -> NFC로 변경 
+
+    # 4. 폰트 줄간격 변경
+    Profiles > Text: n/n 줄간격 100 - 50 으로 변경
     ```
   - 참조
   - https://github.com/ohmyzsh/ohmyzsh
