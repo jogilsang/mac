@@ -29,6 +29,7 @@
 
 ### 세팅
 #### 앱
+- Whale - AWS Console 용 (맥북 사파리 가끔멈춤, 크롬 SG 등에서 버튼안누리는 에러)
 - [내배경화면](https://apps.apple.com/kr/app/id1552826194?mt=12) - 동적인 바탕화면 앱 (optional)
 - Copyless 2 - 클립보드 히스토리 앱
 - twitter - 트위터 앱
