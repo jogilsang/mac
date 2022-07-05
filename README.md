@@ -106,11 +106,14 @@ in the status menu
 - Finder(탐색기) - 환경설정 - 고급 - 현재폴더에서 검색
 
 #### vscode
-- Paste Image - 클립보드 이미지를 mkdown에 추가하기
-  - setting - keyboard shortcut - 키바인딩 된 다른 키 제거( cmd control v )
-- IntelliJ IDEA Keybindings - 잘 사용하는 편집기의 단축키를 vscode에 적용하기
-- One Dark Pro - theme를 적용할 수 있음
-- vscode-pdf - pdf파일을 vscode로 볼 수 있음
+- keymap 변경
+  - deleteline : control + y
+- Extention
+  - Paste Image - 클립보드 이미지를 mkdown에 추가하기
+    - setting - keyboard shortcut - 키바인딩 된 다른 키 제거( cmd control v )
+  - IntelliJ IDEA Keybindings - 잘 사용하는 편집기의 단축키를 vscode에 적용하기
+  - One Dark Pro - theme를 적용할 수 있음
+  - vscode-pdf - pdf파일을 vscode로 볼 수 있음
 - code 명령어설정
 ```sh
 vi ~/.zshrc
