@@ -153,6 +153,32 @@ source ~/.zshrc
 - 마스터 화면보기 변경(일반,여러 슬라이드,개요,노트) : cmd + option + 1,2,3,4
 - [Keyboard shortcuts for Microsoft PowerPoint on Mac](https://www.idownloadblog.com/2020/10/02/keyboard-shortcuts-microsoft-powerpoint-mac/)
 
+- 기본 텍스트 상자지정
+- ex : 나눔고딕 -> 내가원하는 폰트로 신규 텍스트 생성
+- 테마글꼴 저장 - 슬라이드 마스터
+- CTRL + Z, CTRL + Y
+- 텍스트효과 + 휘기
+- 폼 - 글머리기호, 눈금자로 조정가능, 눈금선
+- 언어교정 - 자동고침옵션
+- 글머리 및 기호매기기 - 시작번호매기기 수정
+- EX) 1,2,3 -> 1,5,6
+- 파워포인트 줄간격 - 배수
+- 제목 1.3
+- 본문 1.2,1.3
+- 단락 뒤
+- CTRL + Y 는 내가 실행했던 기능을 반복해줌
+- 가나 -> 좁게 -> 값 증가
+- ctrl 누르고 움직이면 복사
+- ctrl+ shift + c -> ctrl + shift + v
+- f2 글상자 편집 - TAB키로 이동가능
+- 서식 - 맞춤 - 왼쪽맞춤,오른쪽맞춤
+- 오른쪽마우스 - 빠른 실행도구모음에 추가
+- 서식 - 도형병합 - 빼기
+- 쉬프트를 누르고 좌우로 누르면, 크기가 조절됨
+- 그룹을 하고 크기를 키우면, 기준점이 맞게됨
+- ALT + PRINTSCREEN
+- 서식 - 색 - 투명한 색지정
+
 
 ---
 
