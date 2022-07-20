@@ -136,6 +136,8 @@ source ~/.zshrc
   - pickit
 - MS 업데이트 끄기
   - https://iboxcomein.com/block-mac-office-updates/
+- 빠른실행도구모음
+![image](https://user-images.githubusercontent.com/20831981/180003019-8b478211-cdcc-4423-b5b2-3937791973fc.png)
 
 > PPT 단축키
 
