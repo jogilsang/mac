@@ -70,6 +70,7 @@ in the status menu
 #### 플러그인
 > 크롬
 
+- [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn/related?hl=ko)
 - [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
 - Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
