@@ -4,7 +4,7 @@
 ## INDEX
 - [세팅](#세팅)
   - [앱](#앱)
-  - [플러그인](#플러그인)
+  - [크롬](#)
   - [설정](#설정)
   - [vscode](#vscode)
 - [PPT](#ppt)
@@ -67,8 +67,8 @@ in the status menu
 ![image](https://user-images.githubusercontent.com/20831981/173468202-699c39ec-52c8-4d80-8120-3863ecfdebc1.png)
 
 
-#### 플러그인
-> 크롬
+#### 
+> 플러그인
 - [multi-highlight](https://www.highlighty.app/) - 여러단어를 highlight
 - [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
 - Octotree - GitHub code tree
@@ -89,7 +89,12 @@ in the status menu
   - Video Downloader professional
   - Douga Getter
 
-> 
+> 커맨드
+- chrome://flags/
+- chrome://quota-internals/
+- chrome://sync-internals
+
+> 단축키
 - cmd + option + i : 개발자도구
 - cmd + ctrl + f : 전체화면
 
