@@ -98,6 +98,7 @@ in the status menu
 - chrome://crashes
 - chrome://gpu
 - chrome://histograms
+- chrome://device-log/
 
 > 단축키
 - cmd + option + i : 개발자도구
