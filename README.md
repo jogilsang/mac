@@ -90,10 +90,14 @@ in the status menu
   - Douga Getter
 
 > 커맨드
+- chorme://versions/
 - chrome://flags/
 - chrome://quota-internals/
 - chrome://sync-internals
 - chrome://system
+- chrome://crashes
+- chrome://gpu
+- chrome://histograms
 
 > 단축키
 - cmd + option + i : 개발자도구
