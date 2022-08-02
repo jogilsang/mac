@@ -90,6 +90,7 @@ in the status menu
   - Douga Getter
 
 > 커맨드
+- chrome://about/
 - chorme://versions/
 - chrome://flags/
 - chrome://quota-internals/
