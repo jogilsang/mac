@@ -93,6 +93,7 @@ in the status menu
 - chrome://flags/
 - chrome://quota-internals/
 - chrome://sync-internals
+- chrome://system
 
 > 단축키
 - cmd + option + i : 개발자도구
