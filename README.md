@@ -100,6 +100,7 @@ in the status menu
 - chrome://gpu
 - chrome://histograms
 - chrome://device-log/
+  - this is unsafe
 
 > 단축키
 - cmd + option + i : 개발자도구
