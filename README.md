@@ -248,8 +248,7 @@ source ~/.zshrc
   - 1\. 편집키 적용
     - profiles - open profiles - keys - presets - natural text edditing
   - 2\. 실행단축키 설정
-    - Preferences - Hotkey
-    - option + space
+    - Preferences - Keys - Hotkey - (cmd + control + space)
   - 3\. 타이틀바 밑에 1px 라인 제거
     - Appearance > Windows > Show line under title bar when the tab bar is not visible: 체크 안함
 
