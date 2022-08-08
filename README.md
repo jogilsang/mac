@@ -103,7 +103,7 @@ in the status menu
   - this is unsafe
 
 > 단축키
-- cmd + option + i : 개발자도구
+- cmd + option + i : [크롬개발자도구](https://developer.chrome.com/docs/devtools/)
 - cmd + ctrl + f : 전체화면
 
 #### 설정
