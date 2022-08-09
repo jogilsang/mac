@@ -73,7 +73,7 @@ in the status menu
 - [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
 - Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
-- [darkreader](https://darkreader.org/help/en/) : aws console을 dark theme로 적용
+- [darkreader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ko) : aws console을 dark theme로 적용
 - Turn Off the Lights
 - User-Agent Switcher for Chrome : 웹 요청의 user-agent 헤더 변경가능
 - Browsec VPN : 국가정보 변경접속하기
