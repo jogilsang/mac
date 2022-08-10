@@ -75,6 +75,8 @@ in the status menu
 - Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
 - [darkreader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=ko) : aws console을 dark theme로 적용
+  - 제외도메인
+    - mail.google.com : 메일버튼 안보임
 - Turn Off the Lights
 - User-Agent Switcher for Chrome : 웹 요청의 user-agent 헤더 변경가능
 - Browsec VPN : 국가정보 변경접속하기
