@@ -45,8 +45,9 @@ in the status menu
 ```
 ![image](https://user-images.githubusercontent.com/20831981/173234394-17178596-35a6-40b6-89ed-eaf83aad3597.png)
 
-- clipy
+- [clipy](https://clipy.softonic.kr/mac) - 스니펫과 클립보드 히스토리를 이용해서 정보를 저장 및 사용
   - preference > shortcut > histroy unable
+  - cmd + shift + b
 - fork - [git 브런치 툴](https://git-fork.com/)
 - [Twilio Authy - MFA 모바일 앱과 mac 앱으로도 사용가능](https://authy.com/download/)
   - 모바일부터 설치하고, 멀티디바이스 enalbe 한뒤 stanby로 데스크톱도 설치
