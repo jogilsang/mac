@@ -71,7 +71,7 @@ in the status menu
 ![image](https://user-images.githubusercontent.com/20831981/173468202-699c39ec-52c8-4d80-8120-3863ecfdebc1.png)
 
 
-#### 
+#### 크롬
 > 플러그인
 - [multi-highlight](https://www.highlighty.app/) - 여러단어를 highlight
 - [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
