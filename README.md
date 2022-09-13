@@ -74,6 +74,8 @@ in the status menu
 #### 크롬
 > 플러그인
 - [multi-highlight](https://www.highlighty.app/) - 여러단어를 highlight
+- [AWS Extend Switch Roles](https://dev.classmethod.jp/articles/lim-extend-switch-roles/) - Role switch 목록저장
+- [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정
 - [MultiLogin](https://chrome.google.com/webstore/detail/multilogin/ijfgglilaeakmoilplpcjcgjaoleopfi) - 동일 브라우저 교차aws 계정 접속
 - Octotree - GitHub code tree
 - [AWS Colorful Reader](https://chrome.google.com/webstore/detail/aws-colorful-navbar/kgifmgnlchjjippdpkblbdlfidcpceme/related)
