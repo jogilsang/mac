@@ -113,6 +113,8 @@ in the status menu
 > 단축키
 - cmd + option + i : [크롬개발자도구](https://developer.chrome.com/docs/devtools/)
 - cmd + ctrl + f : 전체화면
+- 하이라이트(pdf) : ctrl + command + h
+  - https://velog.io/@modyhoon/MacOS-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%95%B1-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC
 
 #### 설정
 - 시스템환경설정 - 손쉬운사용 - 키보드 - 느린키활성화 - 반응속도 최대한 짧게
