@@ -46,7 +46,8 @@
 check - launch spectacle at login
 in the status menu
 ```
-![image](https://user-images.githubusercontent.com/20831981/173234394-17178596-35a6-40b6-89ed-eaf83aad3597.png)
+![image](https://user-images.githubusercontent.com/20831981/194474887-048203aa-7ddb-47a2-94c7-8eae0c714d0f.png)
+
 
 - [clipy](https://clipy.softonic.kr/mac) - 스니펫과 클립보드 히스토리를 이용해서 정보를 저장 및 사용
   - preference > shortcut > histroy unable
