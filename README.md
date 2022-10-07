@@ -25,6 +25,7 @@
   - [gdate](#gdate)
   - [autosuggestions](#autosuggestions)
   - [syntaxhighlighting](#SyntaxHighlighting)
+  
 ---
 
 ### 세팅
@@ -393,6 +394,12 @@ brew install zsh-autosuggestions
 # 적용 (.zshrc 맨 밑에 추가해야 터미널을 껐다 켜도 적용됨)
 # 환경에 따라 zsh 파일 위치가 다를 수 있으므로 설치 후 터미널 가이드 참고
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+```
+
+#### dig
+- DNS 질의
+```sh
+brew install dig
 ```
 
 #### SyntaxHighlighting
