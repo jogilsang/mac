@@ -267,7 +267,7 @@ source ~/.zshrc
 - #### brew
   ```sh
   #1. Homebrew 설치 및 Path 설정
-  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/user/.zprofile
     eval "$(/opt/homebrew/bin/brew shellenv)"
 
