@@ -260,6 +260,9 @@ source ~/.zshrc
 - 세팅
   - 1\. 편집키 적용
     - profiles - open profiles - keys - presets - natural text edditing
+    - https://goodgid.github.io/iTerm2-Natural-Text-Editing/
+    - ![image](https://user-images.githubusercontent.com/20831981/194482496-aa42760c-0e71-4c31-914e-f2ff737ccfe3.png)
+
   - 2\. 실행단축키 설정
     - Preferences - Keys - Hotkey - (option + space)
   - 3\. 타이틀바 밑에 1px 라인 제거
