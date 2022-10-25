@@ -318,6 +318,17 @@ source .zshrc
 python --version
 ```
 
+#### kubectl
+```sh
+brew install kubernetes-cli
+```
+
+#### kubeval
+```sh
+brew tap instrumenta/instrumenta
+brew install kubeval
+```
+
 #### aws
 ```sh
 # 설치 후 설치 경로 확인(which 명령어로 확인), 설치가 잘 되었는지 확인
