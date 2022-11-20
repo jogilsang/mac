@@ -49,6 +49,7 @@ in the status menu
 ![image](https://user-images.githubusercontent.com/20831981/194474887-048203aa-7ddb-47a2-94c7-8eae0c714d0f.png)
 
 
+- [GIPHY Capture] - 화면의 이미지들을 움짤로 만들기
 - [clipy](https://clipy.softonic.kr/mac) - 스니펫과 클립보드 히스토리를 이용해서 정보를 저장 및 사용
   - preference > shortcut > histroy unable
   - cmd + shift + b
