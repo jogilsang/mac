@@ -30,6 +30,7 @@
 
 ### 세팅
 #### 앱
+- [Gmail Conversation Thread Reversal by cloudHQ](https://chrome.google.com/webstore/detail/gmail-conversation-thread/fkplphcelnmocakmefjmpnohnfgkibkk/related)
 - Whale - AWS Console 용 (맥북 사파리 가끔멈춤, 크롬 SG 등에서 버튼안누리는 에러)
   - 단축키 추가 : cmd +, cmd -
   - ![image](https://user-images.githubusercontent.com/20831981/187103083-a15a5ab2-5890-41d9-a7fe-95b5b1d84907.png)
