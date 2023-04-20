@@ -77,6 +77,10 @@ in the status menu
 
 #### 크롬
 > 플러그인
+- Chrome 용 스크린 레코더
+- Douga Getter
+- Video Downloader Professional
+- User-Agent Switcher for Chrome
 - [Authenticator, Two-factor authentication in your browser](https://authenticator.cc/) - MFA 인증
 - [multi-highlight](https://www.highlighty.app/) - 여러단어를 highlight
 - [AWS Extend Switch Roles](https://dev.classmethod.jp/articles/lim-extend-switch-roles/) - Role switch 목록저장
