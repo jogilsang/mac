@@ -438,3 +438,13 @@ brew install zsh-syntax-highlighting
 # 환경에 따라 zsh 파일 위치가 다를 수 있으므로 설치 후 터미널 가이드 참고
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
+
+---
+
+### EKS 세팅
+
+aws eks --region <지역> update-kubeconfig --name <클러스터 이름>
+sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain /usr/local/share/ca-certificates/amazon.crt
+
+
+
