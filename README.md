@@ -440,6 +440,11 @@ brew install zsh-syntax-highlighting
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 
+#### 압축하기
+### tar.gz 형식으로 압축하기
+### EX : tar -zcvf [파일명] [파일경로]
+tar -zcvf web-php-v2.tar.gz ./web-php-v2
+
 ---
 
 ### EKS 세팅
