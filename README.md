@@ -183,7 +183,21 @@ source ~/.zshrc
   - ![image](https://user-images.githubusercontent.com/20831981/180003019-8b478211-cdcc-4423-b5b2-3937791973fc.png)
 
 > PPT 단축키
-
+- Undo
+  - CMD+Z
+- Redo
+  - Shift + CMD + Z
+- 서식복사
+  - Shift + command + c
+  - Shift + Command + v
+- 크기조정
+  - shift 누르고 마우스 줄이기
+- 크기조정(위치중앙고정)
+  - Shift + ctrl + 마우스 줄이기
+- 상단 리본메뉴 가리기
+  - Option command + r
+- 메뉴 그룹추가하기
+  - 리본 + 뉴탭
 - ppt 여러개 파일 중 하나 : ctrl + 아래방향키
 - ppt 파일 간 화면이동 : cmd + ~
 - 그리기 모드 토글 : COMMAND + CONTROL + Z
