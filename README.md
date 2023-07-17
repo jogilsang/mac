@@ -151,6 +151,9 @@ in the status menu
 - Finder(탐색기) - 환경설정 - 고급 - 현재폴더에서 검색
 
 #### vscode
+- bookmarks
+  ![image](https://github.com/jogilsang/mac/assets/20831981/4470fa3b-d92b-4115-b2ad-b9c1c53fac79)
+
 - Themarro (theme, 테마)
   - ![image](https://user-images.githubusercontent.com/20831981/231071341-90e3f186-1d34-425c-ba00-30df93ff9468.png)
 - keymap 변경
