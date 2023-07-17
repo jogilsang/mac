@@ -30,6 +30,11 @@
 
 ### 세팅
 #### 앱
+- kika - 압축프로그램
+  - 설명문서 : https://comeinsidebox.com/keka/#ftoc-heading-5
+    - 파일접근 > 권한추가
+    - Finder 확장프로그램 > 활성화
+    ![image](https://github.com/jogilsang/mac/assets/20831981/5d51d1fa-ef4f-4cf8-a101-5d790c8e53be)
 - EasyRes - 해상도 변경 어플리케이션
 - Whale - AWS Console 용 (맥북 사파리 가끔멈춤, 크롬 SG 등에서 버튼안누리는 에러)
   - 단축키 추가 : cmd +, cmd -
@@ -39,7 +44,7 @@
 - twitter - 트위터 앱
 - spark - 이메일 앱
 - spectacle - 분할화면
-```
+
 시스템 환경설정 -> 보안 및 개인정보보호 -> 개인정보보호 -> 좌측하단 자물쇠 클릭 -> 
 애플계정 비밀번호 입력 -> 손쉬운 사용 -> Spectacle 체크
 출처: https://dailylog2020.tistory.com/10 [알아두면 언젠가, 쓸모있을 정보들.:티스토리]
