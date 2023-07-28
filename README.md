@@ -81,6 +81,8 @@ in the status menu
 
 
 #### 크롬
+> 설정
+  - 설정 > 하드웨어 가속사용 체크해제 (for Udemy)
 > 플러그인
 - [Gmail Conversation Thread Reversal by cloudHQ](https://chrome.google.com/webstore/detail/gmail-conversation-thread/fkplphcelnmocakmefjmpnohnfgkibkk/related)
 - Chrome 용 스크린 레코더
