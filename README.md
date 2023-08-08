@@ -30,6 +30,8 @@
 
 ### 세팅
 #### 앱
+- python 압축
+  - python -m zipfile -c cicdstack.zip ./buildspec ./code
 - kika - 압축프로그램
   - 설명문서 : https://comeinsidebox.com/keka/#ftoc-heading-5
     - 파일접근 > 권한추가
