@@ -155,6 +155,9 @@ in the status menu
 - Finder(탐색기) - 환경설정 - 고급 - 현재폴더에서 검색
 
 #### vscode
+- 자동완성 제거
+  - 백틱,따옴표 등
+    - "File" > "Preferences" > "Settings" > "Editor: Auto Surround" 설정
 - bookmarks
   - list : cmd + ctrl + b
   - jump to next : cmd + ctrl + l
