@@ -1,5 +1,5 @@
 # mac
-맥북을 받게된 엔지니어의 좌충우돌 적응기
+맥북(M1)을 받게된 엔지니어의 좌충우돌 적응기
 
 ## INDEX
 - [세팅](#세팅)
@@ -30,6 +30,8 @@
 
 ### 세팅
 #### 앱
+- docker (Docker Desktop for Mac with Apple silicon)
+  - https://docs.docker.com/desktop/install/mac-install/
 - python 압축
   - python -m zipfile -c cicdstack.zip ./buildspec ./code
 - kika - 압축프로그램
