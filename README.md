@@ -30,6 +30,8 @@
 
 ### 세팅
 #### 앱
+- screenbrush
+  - <img width="726" alt="image" src="https://github.com/jogilsang/mac/assets/20831981/280018e6-4741-40bf-919e-0871bc2aa4ed">
 - docker (Docker Desktop for Mac with Apple silicon)
   - https://docs.docker.com/desktop/install/mac-install/
 - python 압축
