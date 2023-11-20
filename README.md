@@ -140,6 +140,9 @@ in the status menu
   - https://velog.io/@modyhoon/MacOS-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%95%B1-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC
 
 #### 설정
+- 미션컨트롤 (단축키 누르면 바로 화면전환)
+   > 시스템 환경설정 > 키보드 > '단축키 탭'의 사이드 바에서 Mission Control
+  https://macnews.tistory.com/4230
 - Finder - 옵션 - 모든 데스크탑 (화면이동시 같이 따라옴)
 - 시스템환경설정 - 손쉬운사용 - 확대/축소 - 키보드 단축키를 사용하여 확대/축소 Check
   - control + option + 8 : 포인터 지점 확대/축소
