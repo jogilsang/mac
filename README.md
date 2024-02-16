@@ -305,6 +305,8 @@ source ~/.zshrc
 ---
 
 ### iterm
+- Finder에서 단축키로 열기
+  - Finder > 서비스 > 서비스 설정 > 파일 및 폴더 > iterm에서 열기 > `ctrl + t` 로 설정하기
 - 단축키
   - 전체/부분 선택 `Command + Shift + I`- 
   - 터미널히스토리 보기	`Shift + Cmd + H`
