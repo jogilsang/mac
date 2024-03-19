@@ -31,7 +31,7 @@
 ### 세팅
 #### 앱
 - chrome backspace
-  - https://chrome.google.com/webstore/detail/go-back-with-backspace/emacifekhnajdlgeejloncjbcnoingnd?hl=ko
+  - [https://chrome.google.com/webstore/detail/go-back-with-backspace/emacifekhnajdlgeejloncjbcnoingnd?hl=ko](https://chromewebstore.google.com/detail/eekailopagacbcdloonjhbiecobagjci?hl=ko)
 - screenbrush
   - <img width="726" alt="image" src="https://github.com/jogilsang/mac/assets/20831981/280018e6-4741-40bf-919e-0871bc2aa4ed">
 - docker (Docker Desktop for Mac with Apple silicon)
