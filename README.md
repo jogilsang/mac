@@ -51,6 +51,7 @@
 - spark - 이메일 앱
 - spectacle - 분할화면
 
+Finder > 보기 > 보기옵션 > font MAX
 시스템 환경설정 -> 보안 및 개인정보보호 -> 개인정보보호 -> 좌측하단 자물쇠 클릭 -> 
 애플계정 비밀번호 입력 -> 손쉬운 사용 -> Spectacle 체크
 출처: https://dailylog2020.tistory.com/10 [알아두면 언젠가, 쓸모있을 정보들.:티스토리]
