@@ -88,6 +88,9 @@ in the status menu
   - 환경설정 - 고급 - Enter 누를 시 전송버튼 변경하기
 ![image](https://user-images.githubusercontent.com/20831981/173468202-699c39ec-52c8-4d80-8120-3863ecfdebc1.png)
 
+## 예외
+- Ivanti & Pulse secure
+  - 삭제방법 : https://forums.ivanti.com/s/article/Deep-Clean-Procedure-for-Windows-and-MAC?language=en_US
 
 #### 크롬
 > 설정
