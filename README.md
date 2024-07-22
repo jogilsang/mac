@@ -58,6 +58,8 @@ Finder > 보기 > 보기옵션 > font MAX
 애플계정 비밀번호 입력 -> 손쉬운 사용 -> Spectacle 체크
 출처: https://dailylog2020.tistory.com/10 [알아두면 언젠가, 쓸모있을 정보들.:티스토리]
 
+개인정보 보호 및 보안 > 앱 관리 > 터미널 허용
+
 check - launch spectacle at login
 in the status menu
 ```
