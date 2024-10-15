@@ -30,6 +30,9 @@
 
 ### 세팅
 #### 앱
+- shifty
+  - 블루라이트 차단?
+  - https://shifty.natethompson.io/en/
 - chrome backspace
   - [https://chrome.google.com/webstore/detail/go-back-with-backspace/emacifekhnajdlgeejloncjbcnoingnd?hl=ko](https://chromewebstore.google.com/detail/eekailopagacbcdloonjhbiecobagjci?hl=ko)
 - screenbrush
