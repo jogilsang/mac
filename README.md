@@ -3,6 +3,7 @@
 
 ## INDEX
 - [세팅](#세팅)
+  - [명령어](#명령어)
   - [앱](#앱)
   - [크롬](#크롬)
   - [설정](#설정)
@@ -29,6 +30,13 @@
 ---
 
 ### 세팅
+
+#### 명령어
+- pbcopy : clipboard 복사명령어 (맥북)
+  - EX : echo "aaaa" | pbcopy
+- pbpaste : clipboard 붙여넣기
+  - EX : pbpaste 
+
 #### 앱
 - shifty
   - 블루라이트 차단?
