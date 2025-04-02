@@ -159,6 +159,8 @@ in the status menu
   - https://velog.io/@modyhoon/MacOS-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EC%95%B1-%EC%9E%90%EC%A3%BC-%EC%93%B0%EB%8A%94-%EB%8B%A8%EC%B6%95%ED%82%A4-%EC%A0%95%EB%A6%AC
 
 #### 설정
+- 시작프로그램 제거 시
+  - 시스템 설정 > 일반 > 로그인 항목 > `로그인 시 열기` 해제
 - 미션컨트롤 (단축키 누르면 바로 화면전환)
    > 시스템 환경설정 > 키보드 > '단축키 탭'의 사이드 바에서 Mission Control
   https://macnews.tistory.com/4230
