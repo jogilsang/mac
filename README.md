@@ -13,7 +13,7 @@
   - 닫기
 - [패드](#패드)
 - [iterm](#iterm)
-  - [ghosty](#ghosty)
+  - [ghostty](#ghostty)
   - [brew](#brew)
   - [zsh](#zsh)
   - [python](#python)
