@@ -434,7 +434,7 @@ aws-vault login chogilsang@captain
 
 ```
 
-### ghosty
+### ghostty
 https://ghostty.org/download
 
 #### logo-ls
