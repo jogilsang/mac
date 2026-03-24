@@ -13,6 +13,7 @@
   - 닫기
 - [패드](#패드)
 - [iterm](#iterm)
+  - [ghosty](#ghosty)
   - [brew](#brew)
   - [zsh](#zsh)
   - [python](#python)
@@ -432,6 +433,9 @@ sudo aws-vault exec chogilsang@captain -- aws s3 ls
 aws-vault login chogilsang@captain
 
 ```
+
+### ghosty
+https://ghostty.org/download
 
 #### logo-ls
   - 실행되지않는 프로그램 : 시스템 환경설정 - 보안 및 개인정보 보호 - 다음에서 다운로드 한 앱 허용
